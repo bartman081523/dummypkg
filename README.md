@@ -5,5 +5,7 @@ dummypkg -l              lists all packages and package versions of all packages
 
 temporary building is done in ~/.dummypkg-tmp/
 
+example: 
+./dummypkg -S laramie 5.55
 
 imported from Themaister http://themaister.net/blog https://bbs.archlinux.org/viewtopic.php?id=61001
