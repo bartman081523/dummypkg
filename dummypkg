@@ -3,7 +3,8 @@
 ###########
 #####
 ##       Dummypkg v0.1
-##### by Themaister - http://themaister.net/blog/
+##       Original from Themaister - http://themaister.net/blog/
+#####
 ###########
 
 ## Script to install dummy packages in pacman
